@@ -9,7 +9,7 @@ This C++ program is a simple calculator created by [Mikk4eee](https://github.com
 3. The program then asks the user to enter the second number.
 4. The user inputs the second number.
 
-   ![Screenshot]([screenshot.png](https://cdn.discordapp.com/attachments/1157390765924831292/1157390774674141194/image.png?ex=65186fa7&is=65171e27&hm=9b610857aaeb7f2d1b25086c095815741504f67a73735c3396fb83697c9f0df8&))
+   ![Screenshot](https://cdn.discordapp.com/attachments/1157390765924831292/1157390774674141194/image.png?ex=65186fa7&is=65171e27&hm=9b610857aaeb7f2d1b25086c095815741504f67a73735c3396fb83697c9f0df8&)
 
 5. The program compares the two numbers to determine the maximum and minimum values:
    - If the first number is greater than the second number, the first number is the maximum, and the second number is the minimum.
@@ -20,7 +20,7 @@ This C++ program is a simple calculator created by [Mikk4eee](https://github.com
    - The maximum (the greater of the two numbers).
    - The minimum (the smaller of the two numbers).
 
-   ![Results]([results.png](https://cdn.discordapp.com/attachments/1157390765924831292/1157390886527832114/image.png?ex=65186fc2&is=65171e42&hm=f20479267b4dde8f407cce18f9855276c1b0374e645f168a50f4e0ae61cde395&))
+   ![Results](https://cdn.discordapp.com/attachments/1157390765924831292/1157390886527832114/image.png?ex=65186fc2&is=65171e42&hm=f20479267b4dde8f407cce18f9855276c1b0374e645f168a50f4e0ae61cde395&)
 
 7. The program terminates.
 
